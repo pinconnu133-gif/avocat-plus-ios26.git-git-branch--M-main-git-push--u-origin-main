@@ -1,0 +1,3 @@
+git remote add origin https://github.com/pinconnu133-gif/avocat-plus-ios26.git-git-branch--M-main-git-push--u-origin-main.git
+git branch -M main
+git push -u origin main
